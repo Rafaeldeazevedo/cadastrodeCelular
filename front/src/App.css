@@ -1,0 +1,30 @@
+
+form{
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+form input{
+  margin-bottom: 10px;
+}
+
+form input[type='button']{
+  margin-bottom: 10px;
+  
+
+}
+
+form input[type= 'button']{
+  margin-right: 10px;
+}
+
+
+body{
+  
+  background-color:coral;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1920px 1080px;
+ }
